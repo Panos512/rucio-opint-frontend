@@ -23,6 +23,7 @@ module.exports = {
       },
     ]
   },
+  plugins: [    new HtmlWebpackPlugin({      template: path.join(__dirname, 'public/index.html'),    }),  ],
   devServer: {
     contentBase: path.join(__dirname, 'public'),
     historyApiFallback: true,
