@@ -1,3 +1,5 @@
+## PROJECT HAS BEEN MOVED TO: https://github.com/operationalintelligence/rucio-opint-frontend
+
 ## Description
 
 Frontend application for Rucio operational intelligence project.
